@@ -1,0 +1,22 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: purple;
+}
+
+body {
+  background-color: #f79b90;
+}
+
+h2 {
+  color: rgb(41, 16, 41);
+  font-weight: bolder;
+}
+
+.important {
+  color: rgb(110, 34, 180);
+  font-style: italic;
+}
+
+.fancy {
+  font-family: cursive;
+}
